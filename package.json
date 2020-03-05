@@ -1,0 +1,21 @@
+{
+  "name": "discordrp-bot",
+  "version": "1.0.0",
+  "description": "Un bot pour faire des transitions de salle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faustin_",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^5.4.3",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.2",
+    "json": "^9.0.6",
+    "mongodb": "^3.2.7",
+    "npm": "^6.10.0",
+    "ora": "^3.4.0",
+    "pm2-api": "0.0.4"
+  }
+}
